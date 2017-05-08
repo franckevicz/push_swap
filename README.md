@@ -29,6 +29,7 @@ rrr : rra and rrb at the same time.
 
 
 push_swap binary must output the list of command with help of which stack can be sorted.
+
 checher binary takes stack as argument and commands via stdin and checks is stack A is sorted after applying all those operation(and stack B is empty).
 
 The best way to operate with this :
