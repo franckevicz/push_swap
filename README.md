@@ -26,11 +26,11 @@ rrr : rra and rrb at the same time.
 **checher** binary takes stack as argument and commands via stdin and checks is stack A is sorted after applying all those operation(and stack B is empty).
 
 The best way to operate with this :
-
+```
 make
-
-`ARG="10 2 3 14 5 6 7 8 1"; ./push_swap $ARG | ./checker $ARG`
-
+ARG="10 2 3 14 5 6 7 8 1"; ./push_swap $ARG | ./checker $ARG
+```
+Most of the time it works only in bash.
 
 There is some flags in ./checker program:
 ```
