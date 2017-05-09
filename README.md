@@ -4,7 +4,7 @@ Algorythmyc project about sorting a stacks. Yes stacks.
 On init phase we have full first stack(stack A) and empty stack(stack). The aim is to sort numbers in stack A in ascending order in as few operation as it possible (5200 operation for 500 numbers).
 
 The whole task is in [this pdf](https://github.com/franckevicz/push_swap/blob/master/push_swap.en.pdf). It's not described very clear as long as it's a part of the task.
-Here is just quick explanation.
+Here is just a quick explanation.
 
 To reach this goal in our arsenal we have some commands:
 ```
